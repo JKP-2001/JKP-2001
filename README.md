@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JKP-2001
+- A sophomore from IIT Guwahati...
 - 👀 I’m interested in Data Structure And Algorithm, Web Devlopment.
 - 🌱 I’m currently learning JAVA SCRIPT, REACT, JAVA.
 - 📫 How to reach me jkp6957@gmail.com.
