@@ -5,6 +5,9 @@
 - 📫 How to reach me jkp6957@gmail.com.
 
 ![Jitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKP-2001&show_icons=true&theme=tokyonight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JKP-2001)](https://github.com/JKP-2001/github-readme-stats)
 <!---
 JKP-2001/JKP-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---!>
